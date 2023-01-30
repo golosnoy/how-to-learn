@@ -1,4 +1,4 @@
-@import url('../styles/normalize.css');
+@import url('../vendor/normalize.css');
 @import url('../blocks/cards/cards.css');
 @import url('../blocks/cards/__description/cards__description.css');
 @import url('../blocks/cards/__image/cards__image.css');
@@ -34,9 +34,11 @@
 @import url('../blocks/khan/__buy-link/khan__buy-link.css');
 @import url('../blocks/khan/__container/khan__container.css');
 @import url('../blocks/khan/__quote/khan__quote.css');
+@import url('../blocks/khan/__paragraph/khan__paragraph.css');
 @import url('../blocks/khan/__quote-author/khan__quote-author.css');
 @import url('../blocks/khan/__quote-author-subline/khan__quote-author-subline.css');
 @import url('../blocks/khan/__title/khan__title.css');
+@import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/logo_place_footer.css');
 @import url('../blocks/logo/_place/logo_place_header.css');
 @import url('../blocks/oakley/oakley.css');
@@ -66,3 +68,5 @@
 @import url('../blocks/video/video.css');
 @import url('../blocks/video/__iframe/video__iframe.css');
 @import url('../blocks/video/__iframes/video__iframes.css');
+@import url('../blocks/video/__item/video__item.css');
+@import url('../blocks/rotation/rotation.css');
